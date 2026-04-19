@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.git/
+.gitignore
+data/
+*.parquet
+*.csv
+mlruns/
+mlflow.db
+.env
+*.ipynb
+*.md
+.pytest_cache/
+test_app.py
+venv/
